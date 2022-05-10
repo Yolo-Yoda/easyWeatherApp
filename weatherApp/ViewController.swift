@@ -11,6 +11,7 @@ class ViewController: UIViewController, UISearchResultsUpdating{
             }
         }
     }
+    
     var dataIsReady: Bool = false
     var apiKey = "481ffd2561d75636d6744846d09ab48a"
     
